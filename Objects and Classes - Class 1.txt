@@ -1,0 +1,37 @@
+Object Oriented Programming(OOPS):
+
+*Based on real world.
+*Program is divided into small parts called Objects.
+*follows bottom up approach.
+*Data is given more importance than functions.
+*Data hiding is possible and hence more secure.
+*Adding new data and function is much easier.
+*Ex : C++, Java, Python, C#,etc.
+
+
+What are Objects?
+
+*Anything that has a state and behaviour is known as object.
+*Objects can be physical/logical.
+*It is a real-world entity.
+*It is an instance of a class.
+
+
+What are Classes?
+
+*A class is a group of objects which have common properties.
+*A class can be seen as a blueprint from which objects are created.
+*For example: A car can be a class and we can have various objects. Each car object has attributes(properties) such as weight and color and methods(behaviour) such as accelerate and brake.
+
+*Classes can contain: 
+			Fields
+			Methods
+			Constructors
+			Nested class and interface
+
+*Creation of object of a class(Instantiation of a class):
+				known as instantiation of a class
+	objects share the attributes and the behaviour of the class
+	values of those attributes may be unique for each object
+	A class may have any number of instances.
+
