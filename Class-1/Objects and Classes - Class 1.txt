@@ -30,8 +30,7 @@ What are Classes?
 			Nested class and interface
 
 *Creation of object of a class(Instantiation of a class):
-				known as instantiation of a class
-	objects share the attributes and the behaviour of the class
-	values of those attributes may be unique for each object
-	A class may have any number of instances.
-
+												known as instantiation of a class
+												objects share the attributes and the behaviour of the class
+												values of those attributes may be unique for each object
+												A class may have any number of instances.

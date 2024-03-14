@@ -1,0 +1,22 @@
+Differences between Procedural Programming and Object Oriented Programming:
+
+Procedural Programming:
+
+*Derived from structural programming.
+*Program is divided into small parts called functions.
+*follows top down approach.
+*function is more important than data.
+*based on unreal world.
+*no proper way fro hiding data, so it is less secure.
+*adding new data and function is not easy.
+*ex: C, Fortran, Pascal, Basic, etc.
+
+Object Oriented Programming(OOPS)
+
+*based on real world.
+*Program is divided into small parts called objects.
+*Object Oriented Programming follows bottom up approach.
+*Data is given more importance than functions.
+*Data hiding is possible and hence more secure.
+*Adding new data and function is much easier.
+Ex: C++, Java, Python, C#, etc
