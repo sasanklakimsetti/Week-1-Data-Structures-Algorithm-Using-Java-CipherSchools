@@ -1,0 +1,21 @@
+Inheritance:
+
+*The property of an object to acquire all the properties and behaviour of its parent object.
+*Inheritance represents the IS-A relationship which is also known as parent-child relationship.
+
+ex: Parent - Animal
+      Child - Mammals, Reptiles, Amphibians
+
+*Child class always inherits properties from Parent class.
+
+*Advantages: Code reusabilty, extensibility, overriding, data hiding
+
+*Syntax:   class Child extends Parent{
+         		//	
+	       	      //
+         	}
+
+*Types: Single, Hierarchial, Multiple, Multilevel
+
+*Multiple inheritance doesn't support in Java because java can't solve diamond problem as there are no virtual classes.
+
