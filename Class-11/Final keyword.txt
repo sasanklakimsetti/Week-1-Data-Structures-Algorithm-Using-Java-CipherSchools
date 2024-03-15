@@ -1,0 +1,11 @@
+Methods can be declared final using keyword 'final'.
+*final methods can't be overriden in subclasses. Static methods may also be declared final to prevent from overriding.
+
+Classes can be declared final using keyword final.
+*final classes can't be inherited.
+*Not necessary for a final class to have final methods.
+*Final class cannot have abstract methods.
+
+Variables can be declared final using keyword final.
+*Value assigned to final variable once cannot be changed.
+*Final variables must be initialized either at declaration time or inside constructors.
