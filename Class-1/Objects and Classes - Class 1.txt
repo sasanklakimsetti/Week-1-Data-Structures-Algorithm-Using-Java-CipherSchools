@@ -1,6 +1,6 @@
 Object Oriented Programming(OOPS):
 
-*Based on real world.
+*It is based on real world.
 *Program is divided into small parts called Objects.
 *follows bottom up approach.
 *Data is given more importance than functions.
