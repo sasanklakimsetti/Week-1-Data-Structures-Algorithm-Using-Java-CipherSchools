@@ -19,3 +19,6 @@ syntax: abstract classname{ }
 
 *Abstract methods are used to force the subclasses to provide the implementation by defining the body.
 *If any subclass doesn't implement all the abstract methods of parent class, it will also be treated as abstract.
+
+*If the class has implementations of methods and not an abstract class, it is said to be concrete class.
+*An abstract class can have concrete methods but still can't be instantiated.
