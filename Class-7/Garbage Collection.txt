@@ -1,0 +1,4 @@
+Garbage Collection:
+
+*If we create two objects and one object refers to two classes whereas the other won't be referring into any.
+*Due to automatic garbage collection in Java, the unused/ unreferred object will automatically gets cleared/ pushed into garbage.

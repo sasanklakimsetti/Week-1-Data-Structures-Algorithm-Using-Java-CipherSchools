@@ -1,0 +1,11 @@
+Heap and Stack Memory:
+
+*Heap memory is shared by every method.
+*Every method has it's own stack.
+*All primitive datatypes and all the local variables will get stored in Stack.
+*Objects will get stored in Heap.
+
+EXAMPLE:
+
+*if we store an integer, it will be stored in stack.
+*if we have a class Student and create a object 's' then the object/reference variable  will be stored in heap.

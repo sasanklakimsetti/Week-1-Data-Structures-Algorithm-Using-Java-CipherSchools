@@ -1,0 +1,5 @@
+JAVA is not purely Object Oriented since we use primitive data types
+
+So it is both POP and OOPS.
+
+if we use only objects and classes then it will be purely OOPS.
