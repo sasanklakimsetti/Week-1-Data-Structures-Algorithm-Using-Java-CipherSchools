@@ -1,0 +1,12 @@
+Instantiation Process:
+
+class: Student
+
+Student s = new Student();
+
+WHAT'S HAPPENING?
+
+1.Creating a variable to store the reference of the object.
+2.Create an object using new keyword
+3.Assigning the reference of the created object of the variable.
+
