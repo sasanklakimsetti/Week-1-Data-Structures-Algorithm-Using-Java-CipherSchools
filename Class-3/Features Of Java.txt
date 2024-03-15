@@ -1,0 +1,65 @@
+Features Of Java:
+
+1.Simple:
+*Very easy to learn as its syntax is very simple.
+*Syntax is based on C++.
+*No complicated features like  pointers, operator overloading, etc.
+*Automatic Garbage Collection to remove unreferenced objects and thus programmers are free from memory management responsibilities.
+
+2.Object Oriented:
+*Creating objects, manipulating objects and making them work together.
+*It is better than POP because it provides great flexibility, modularity, clarity and reusability.
+*It is more secure as it provides data hiding features.
+
+3.Platform Independent:
+* "Write once run anywhere" feature of Java makes it platform independent. It allows a Java program to run on any os like windows, linux, mac,etc.
+*Other languages like C,C++, etc are directly compiled into platform specific machine codes.
+*An additional layer(class file) is added in java to achieve platform independence.
+
+WHAT HAPPENS?
+
+.java file -> .class file -> Java Virtual Machine(JVM)  -> machine code
+
+**JVM will be different for different OS.
+** .class file contains byte code.
+**JVM executes byte code into machine code.
+**Though the JVMs are diff for each OS but the output will be same.
+**There will be different JVMs for different system though the OS is same i.e. 32-bit or 64-bit.
+
+4.Architectural Neutral:
+*Java has an essential feature that allows the applications to run easily on diferent machines with different hardware architecture.
+*There is no architecture dependent features, for examplem the size of primitive data types is fixed.
+*In C programming, int data type occupies 2 bytes of memory in 32-bit and 4 bytes in 64-bit.
+*In java, it occupies 4 bytes of memory for both 32 and 64-bit architectures.
+
+5.Portable:
+*Platform Independence and Architecture makes it portable.
+
+6.Robust:
+*Java has eliminated certain types of error prone programming constructs that are found in other languages.
+*Using exception handling mechanism, java can catch and respond to exceptional situations , so that a program can continue its normal execution.
+*Java has a strong memory allocation and garbage collection mechanism.
+*It doesn't support pointers.
+
+7.Secure:
+*Do not use pointers explicitly.
+*Programs run under an area known as Sand Box.
+*Security manager determines the accessibility options of a class, like reading and writing a file into the local disk.
+*Java uses a public key encryption system to allow the Java application transmit over the internet in the secured encrypted form.
+*The byte code verifier  checks the classes after loading.
+
+8.High Performance:
+*Java is faster than other traditional interpreted programming languages because Java Bytecode is close to native code.
+*But it is not fast as compiled languages such as C++ because Java is interpreted.
+*The new JVM is significantly faster than the earlier one. The new JVM uses the technology known as Just-In-Time Compilation(JIT). It converts the byte code into machine code on demand basis.
+
+9.Multi-Threaded:
+*Means a single program having different independent tasks to be performed independently at the same time.
+*We can write Java programs that deal with many tasks at once by defining mutliple threads.
+*Multithreading is particularly useful in server applications, a server can serve mutliple clients at the same time.
+*In java, threads can be created in two ways:   by extending thread class and by implementing Runnable interface.
+
+10.Distributed:
+*In distributed computing, several computers work together on a network.
+*Java is designed to develop applications that make distributed computing easy and efficient.
+*This feature of Java makes us able to access files by calling the methods from any machine on the internet.
