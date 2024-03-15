@@ -1,0 +1,19 @@
+Interfaces
+
+*An interface is something like a blueprint of a class.
+*Interface can have only abstract methods.
+*They are used to achieve absolute abstraction and multiple inheritance in java.
+*An interface can have abstract methods and variables.
+*Variables declared inside the interfaces are public, static and final by default. Even if we don't use these keywords explicitly.
+*Method declaration inside the interfaces are public and abstract by default.
+
+syntx : interface A{ 
+	
+				}
+
+*A class can implement an interface using keyword implements.
+*When a class implements an interface, it must override all the methods, otherwise it will become abstract and thus cannot be instantiated.
+*When we override these methods, the access specifier should be public.
+*Multiple inheritance is allowed in Java through interfaces.
+*If a class implements multiple interfaces containing same method declaration then it needs to be overriden only once.
+
