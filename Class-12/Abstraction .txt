@@ -1,0 +1,21 @@
+Abstraction 
+
+*Data Abstraction is the process of hiding certain details and showing only essential information to the user.
+*Ex: We know all cars must accelerate, brake, blow horn,etc. But we don't know what exactly happens when we press the accelerator, how the acceleration will be achieved. This is called Abstraction.
+*Abstraction can be achieved using abstract classes or interfaces.
+
+Abstract Method:
+
+*Method declared but not implemented is called abstract method.
+*abstract methods do not have a body but terminate with a semicolon.
+*The keyword 'abstract' must be used in the signature of the method.
+*final and static methods can't be declared abstract.
+
+Abstract Class:
+*Class containing abstract methods is called abstract class. Keyword 'abstract' must be used in the class declaration, else compiler will throw an error.
+*Abstract class can' be instantiated.
+
+syntax: abstract classname{ }
+
+*Abstract methods are used to force the subclasses to provide the implementation by defining the body.
+*If any subclass doesn't implement all the abstract methods of parent class, it will also be treated as abstract.
