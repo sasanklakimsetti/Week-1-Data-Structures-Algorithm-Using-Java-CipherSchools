@@ -1,0 +1,7 @@
+Static Keyword:
+
+Methods can be declared using keyword static.
+*Static methods are also called class methods.
+*Static methods belong to class. It can be used with class name directly, can also be accessed using instance references.
+*Static methods use static variables only, whereas non-static methods can use both instance variable and static variables.
+*These are used to perform some common task for all objects.
