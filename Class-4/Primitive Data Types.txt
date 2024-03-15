@@ -1,0 +1,12 @@
+Primitive Data Types:
+
+*A primitive data type specifies the size and type of variable values, and it has no additional methods.
+*There are eight primitive data types.
+-> byte	1byte	stores whole numbers from -128 to 127
+->short	2bytes	stores whole numbers from -32768 to 32767
+->int		4bytes	stores whole numbers from -2147483648 to 2147483647
+->long	8bytes	stores whole numbers from -9223372036854775808 to 9223372036854775807
+->float	4bytes	stores fractional numbers, sufficient for storing 6 to 7 decimal digits
+->double	8bytes	stores fractional numbers, sufficient for stroing 15 decimal digits
+->boolean		1bit	stores true or false values
+->char	2bytes	stores a single character/ letter or ASCII values
